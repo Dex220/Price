@@ -1,0 +1,35 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+    color: #000;
+}
+
+.Facials{
+    background-image: url(https://quigleyeye.com/wp-content/uploads/2024/06/embrace-the-glow-the-importance-of-summer-facials.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+
+.Waxing{
+    background-image: url(https://segolilyspa.com/storage/2023/06/The-Importance-of-Proper-Waxing-Technique-scaled.jpeg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #000;
+}
+
+.Hair{
+    background-image: url(https://5.imimg.com/data5/SELLER/Default/2022/1/RR/FT/TU/144217961/hair-cut.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
